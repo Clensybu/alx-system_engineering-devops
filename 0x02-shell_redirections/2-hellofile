@@ -1,2 +1,4 @@
 #!/bin/bash
-cat 2-hellofile
+cat /etc/passwd
+
+e
